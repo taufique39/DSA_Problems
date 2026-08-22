@@ -45,3 +45,16 @@
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
+
+<pre>
+class Solution {
+    public boolean isPalindrome(String s) {
+        String lower_s = s.toLowerCase().replaceAll("[^a-zA-Z0-9]", "");
+
+        if(lower_s.equals(new StringBuilder(lower_s).reverse().toString())){
+            return true;
+        }
+    return false;
+    }
+}
+<pre>
