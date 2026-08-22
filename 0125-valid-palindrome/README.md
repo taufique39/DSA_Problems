@@ -35,3 +35,16 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 	<li><code>1 &lt;= s.length &lt;= 2 * 10<sup>5</sup></code></li>
 	<li><code>s</code> consists only of printable ASCII characters.</li>
 </ul>
+
+<pre>
+class Solution {
+    public boolean isPalindrome(String s) {
+        String lower_s = s.toLowerCase().replaceAll("[^a-zA-Z0-9]", "");
+
+        if(lower_s.equals(new StringBuilder(lower_s).reverse().toString())){
+            return true;
+        }
+    return false;
+    }
+}
+<pre>
