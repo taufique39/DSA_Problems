@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/taufique39/DSA_Problems/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/taufique39/DSA_Problems/tree/master/0125-valid-palindrome) |
 ## Matrix
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/taufique39/DSA_Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
