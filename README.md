@@ -13,6 +13,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/taufique39/DSA_Problems/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/taufique39/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Queue
 |  |
 | ------- |
@@ -47,4 +49,5 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
