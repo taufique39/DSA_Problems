@@ -6,7 +6,7 @@ class Solution {
         }
         
         int x = 0;
-        for(int i = 0; i <26; i++){
+        for(int i = 0; i < 26; i++){
             if(count[i] != 0){
                 x = count[i];
             }
