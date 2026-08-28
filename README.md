@@ -57,6 +57,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/taufique39/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/taufique39/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -81,4 +82,16 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
