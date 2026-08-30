@@ -13,6 +13,7 @@
 | [0766-toeplitz-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/taufique39/DSA_Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0867-transpose-matrix) |
+| [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/taufique39/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/taufique39/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
+| [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
 ## Stack
 |  |
 | ------- |
@@ -99,4 +101,12 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
