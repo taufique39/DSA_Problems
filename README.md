@@ -13,6 +13,7 @@
 | [0766-toeplitz-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/taufique39/DSA_Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0867-transpose-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/taufique39/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/taufique39/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/taufique39/DSA_Problems/tree/master/0048-rotate-image) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/taufique39/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
