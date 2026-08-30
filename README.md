@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/taufique39/DSA_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/taufique39/DSA_Problems/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/taufique39/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/taufique39/DSA_Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0867-transpose-matrix) |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/taufique39/DSA_Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
