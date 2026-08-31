@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/taufique39/DSA_Problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/taufique39/DSA_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0054-spiral-matrix) |
+| [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/taufique39/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/taufique39/DSA_Problems/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/taufique39/DSA_Problems/tree/master/0724-find-pivot-index) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/taufique39/DSA_Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Bit Manipulation
@@ -97,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/taufique39/DSA_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -125,4 +130,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/taufique39/DSA_Problems/tree/master/0724-find-pivot-index) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
