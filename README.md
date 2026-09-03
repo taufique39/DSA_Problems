@@ -26,6 +26,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/taufique39/DSA_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/taufique39/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/taufique39/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/taufique39/DSA_Problems/tree/master/0048-rotate-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/taufique39/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/taufique39/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
