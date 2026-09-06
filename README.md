@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taufique39/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/taufique39/DSA_Problems/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taufique39/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/taufique39/DSA_Problems/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/taufique39/DSA_Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/taufique39/DSA_Problems/tree/master/0605-can-place-flowers) |
@@ -37,6 +38,7 @@
 | [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taufique39/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/taufique39/DSA_Problems/tree/master/0575-distribute-candies) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
