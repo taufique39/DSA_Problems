@@ -114,6 +114,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/taufique39/DSA_Problems/tree/master/0048-rotate-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/taufique39/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3870-count-commas-in-range](https://github.com/taufique39/DSA_Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/taufique39/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
