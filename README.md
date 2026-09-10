@@ -51,6 +51,7 @@
 | [0125-valid-palindrome](https://github.com/taufique39/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/taufique39/DSA_Problems/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/taufique39/DSA_Problems/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/taufique39/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/taufique39/DSA_Problems/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/taufique39/DSA_Problems/tree/master/0905-sort-array-by-parity) |
@@ -92,6 +93,7 @@
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/taufique39/DSA_Problems/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/taufique39/DSA_Problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/taufique39/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
