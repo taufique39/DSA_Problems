@@ -8,7 +8,7 @@ class Solution {
             if (lasts[s.charAt(i)] != lastt[t.charAt(i)]) {
                 return false;
             }
-
+  
             lasts[s.charAt(i)] = i + 1;
             lastt[t.charAt(i)] = i + 1;
         }
