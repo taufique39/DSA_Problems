@@ -96,6 +96,7 @@
 | [0443-string-compression](https://github.com/taufique39/DSA_Problems/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/taufique39/DSA_Problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/taufique39/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Queue
 |  |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -184,4 +186,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/taufique39/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
