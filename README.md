@@ -25,6 +25,7 @@
 | [0905-sort-array-by-parity](https://github.com/taufique39/DSA_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/taufique39/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/taufique39/DSA_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -41,6 +42,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taufique39/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/taufique39/DSA_Problems/tree/master/0575-distribute-candies) |
+| [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -134,6 +136,7 @@
 | [0905-sort-array-by-parity](https://github.com/taufique39/DSA_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
 ## Stack
 |  |
 | ------- |
@@ -152,10 +155,12 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -196,4 +201,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
