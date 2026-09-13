@@ -54,6 +54,7 @@
 | [0344-reverse-string](https://github.com/taufique39/DSA_Problems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/taufique39/DSA_Problems/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/taufique39/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/taufique39/DSA_Problems/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/taufique39/DSA_Problems/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/taufique39/DSA_Problems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/taufique39/DSA_Problems/tree/master/0917-reverse-only-letters) |
@@ -99,6 +100,7 @@
 | [0443-string-compression](https://github.com/taufique39/DSA_Problems/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/taufique39/DSA_Problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/taufique39/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/taufique39/DSA_Problems/tree/master/0696-count-binary-substrings) |
 | [0917-reverse-only-letters](https://github.com/taufique39/DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
