@@ -31,6 +31,7 @@
 | [1260-shift-2d-grid](https://github.com/taufique39/DSA_Problems/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/taufique39/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/taufique39/DSA_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/taufique39/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/taufique39/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -76,6 +77,7 @@
 | [0867-transpose-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/taufique39/DSA_Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/taufique39/DSA_Problems/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/taufique39/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
