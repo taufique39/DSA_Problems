@@ -119,6 +119,7 @@
 | [0520-detect-capital](https://github.com/taufique39/DSA_Problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/taufique39/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/taufique39/DSA_Problems/tree/master/0696-count-binary-substrings) |
+| [0824-goat-latin](https://github.com/taufique39/DSA_Problems/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/taufique39/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/taufique39/DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/taufique39/DSA_Problems/tree/master/0925-long-pressed-name) |
