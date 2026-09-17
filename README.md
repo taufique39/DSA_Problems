@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/taufique39/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/taufique39/DSA_Problems/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/taufique39/DSA_Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/taufique39/DSA_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/taufique39/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
@@ -236,4 +237,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/taufique39/DSA_Problems/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/taufique39/DSA_Problems/tree/master/0883-projection-area-of-3d-shapes) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/taufique39/DSA_Problems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
