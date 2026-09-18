@@ -247,4 +247,12 @@
 | ------- |
 | [0046-permutations](https://github.com/taufique39/DSA_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/taufique39/DSA_Problems/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/taufique39/DSA_Problems/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/taufique39/DSA_Problems/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
