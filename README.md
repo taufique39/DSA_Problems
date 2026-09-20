@@ -64,6 +64,7 @@
 | [0283-move-zeroes](https://github.com/taufique39/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/taufique39/DSA_Problems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/taufique39/DSA_Problems/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/taufique39/DSA_Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/taufique39/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/taufique39/DSA_Problems/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/taufique39/DSA_Problems/tree/master/0696-count-binary-substrings) |
@@ -122,6 +123,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/taufique39/DSA_Problems/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/taufique39/DSA_Problems/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/taufique39/DSA_Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/taufique39/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/taufique39/DSA_Problems/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/taufique39/DSA_Problems/tree/master/0696-count-binary-substrings) |
