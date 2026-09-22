@@ -133,6 +133,7 @@
 | [0925-long-pressed-name](https://github.com/taufique39/DSA_Problems/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2785-sort-vowels-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
