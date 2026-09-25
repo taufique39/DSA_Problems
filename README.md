@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/taufique39/DSA_Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/taufique39/DSA_Problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/taufique39/DSA_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/taufique39/DSA_Problems/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/taufique39/DSA_Problems/tree/master/0046-permutations) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/taufique39/DSA_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/taufique39/DSA_Problems/tree/master/0031-next-permutation) |
@@ -161,6 +163,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/taufique39/DSA_Problems/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/taufique39/DSA_Problems/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
