@@ -52,6 +52,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taufique39/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/taufique39/DSA_Problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/taufique39/DSA_Problems/tree/master/0575-distribute-candies) |
+| [0859-buddy-strings](https://github.com/taufique39/DSA_Problems/tree/master/0859-buddy-strings) |
 | [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
@@ -131,6 +132,7 @@
 | [0696-count-binary-substrings](https://github.com/taufique39/DSA_Problems/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/taufique39/DSA_Problems/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/taufique39/DSA_Problems/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/taufique39/DSA_Problems/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/taufique39/DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/taufique39/DSA_Problems/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
