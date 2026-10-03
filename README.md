@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/taufique39/DSA_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/taufique39/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/taufique39/DSA_Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taufique39/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taufique39/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
@@ -65,6 +66,7 @@
 | [0027-remove-element](https://github.com/taufique39/DSA_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/taufique39/DSA_Problems/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/taufique39/DSA_Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/taufique39/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taufique39/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -172,6 +174,7 @@
 | ------- |
 | [0015-3sum](https://github.com/taufique39/DSA_Problems/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/taufique39/DSA_Problems/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/taufique39/DSA_Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/taufique39/DSA_Problems/tree/master/0905-sort-array-by-parity) |
@@ -203,6 +206,7 @@
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/taufique39/DSA_Problems/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
 ## Prefix Sum
@@ -250,6 +254,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/taufique39/DSA_Problems/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
 ## Geometry
 |  |
