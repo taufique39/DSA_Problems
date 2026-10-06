@@ -15,6 +15,7 @@
 | [0047-permutations-ii](https://github.com/taufique39/DSA_Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/taufique39/DSA_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/taufique39/DSA_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/taufique39/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/taufique39/DSA_Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taufique39/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/taufique39/DSA_Problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/taufique39/DSA_Problems/tree/master/0066-plus-one) |
 | [0836-rectangle-overlap](https://github.com/taufique39/DSA_Problems/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/taufique39/DSA_Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/taufique39/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
