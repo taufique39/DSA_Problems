@@ -163,6 +163,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/taufique39/DSA_Problems/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/taufique39/DSA_Problems/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
@@ -170,6 +171,7 @@
 | [0048-rotate-image](https://github.com/taufique39/DSA_Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/taufique39/DSA_Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/taufique39/DSA_Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/taufique39/DSA_Problems/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/taufique39/DSA_Problems/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/taufique39/DSA_Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/taufique39/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -283,6 +285,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/taufique39/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/taufique39/DSA_Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/taufique39/DSA_Problems/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
