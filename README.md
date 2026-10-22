@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/taufique39/DSA_Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/taufique39/DSA_Problems/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/taufique39/DSA_Problems/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/taufique39/DSA_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/taufique39/DSA_Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/taufique39/DSA_Problems/tree/master/0048-rotate-image) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/taufique39/DSA_Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taufique39/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/taufique39/DSA_Problems/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
