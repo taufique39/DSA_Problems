@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/taufique39/DSA_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/taufique39/DSA_Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taufique39/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/taufique39/DSA_Problems/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/taufique39/DSA_Problems/tree/master/0575-distribute-candies) |
@@ -57,6 +58,7 @@
 | [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/taufique39/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taufique39/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/taufique39/DSA_Problems/tree/master/0567-permutation-in-string) |
@@ -79,6 +81,7 @@
 | [0189-rotate-array](https://github.com/taufique39/DSA_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/taufique39/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/taufique39/DSA_Problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/taufique39/DSA_Problems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/taufique39/DSA_Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/taufique39/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -119,6 +122,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/taufique39/DSA_Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taufique39/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/taufique39/DSA_Problems/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
@@ -191,6 +195,7 @@
 | [0075-sort-colors](https://github.com/taufique39/DSA_Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/taufique39/DSA_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
