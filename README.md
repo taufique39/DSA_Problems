@@ -37,6 +37,7 @@
 | [0867-transpose-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/taufique39/DSA_Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/taufique39/DSA_Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/taufique39/DSA_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/taufique39/DSA_Problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
@@ -91,6 +92,7 @@
 | [0844-backspace-string-compare](https://github.com/taufique39/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/taufique39/DSA_Problems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/taufique39/DSA_Problems/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/taufique39/DSA_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/taufique39/DSA_Problems/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
@@ -197,6 +199,7 @@
 | [0242-valid-anagram](https://github.com/taufique39/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/taufique39/DSA_Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/taufique39/DSA_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
