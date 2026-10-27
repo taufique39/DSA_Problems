@@ -126,6 +126,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/taufique39/DSA_Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taufique39/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/taufique39/DSA_Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/taufique39/DSA_Problems/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -305,4 +306,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/taufique39/DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/taufique39/DSA_Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
