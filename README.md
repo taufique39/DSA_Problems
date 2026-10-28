@@ -49,6 +49,7 @@
 | [1260-shift-2d-grid](https://github.com/taufique39/DSA_Problems/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/taufique39/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/taufique39/DSA_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/taufique39/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -111,6 +112,7 @@
 | [0867-transpose-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/taufique39/DSA_Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/taufique39/DSA_Problems/tree/master/1260-shift-2d-grid) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/taufique39/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -135,6 +137,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/taufique39/DSA_Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/taufique39/DSA_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -212,6 +215,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/taufique39/DSA_Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/taufique39/DSA_Problems/tree/master/1122-relative-sort-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack
 |  |
@@ -320,4 +324,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/taufique39/DSA_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
