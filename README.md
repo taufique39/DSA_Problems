@@ -35,6 +35,7 @@
 | [0575-distribute-candies](https://github.com/taufique39/DSA_Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/taufique39/DSA_Problems/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/taufique39/DSA_Problems/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/taufique39/DSA_Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/taufique39/DSA_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/taufique39/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0766-toeplitz-matrix) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/taufique39/DSA_Problems/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/taufique39/DSA_Problems/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/taufique39/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/taufique39/DSA_Problems/tree/master/0867-transpose-matrix) |
@@ -227,6 +229,7 @@
 | [0020-valid-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/taufique39/DSA_Problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/taufique39/DSA_Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/taufique39/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
