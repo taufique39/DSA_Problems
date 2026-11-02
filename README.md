@@ -34,6 +34,7 @@
 | [0496-next-greater-element-i](https://github.com/taufique39/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/taufique39/DSA_Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/taufique39/DSA_Problems/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
 | [0661-image-smoother](https://github.com/taufique39/DSA_Problems/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/taufique39/DSA_Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/taufique39/DSA_Problems/tree/master/0704-binary-search) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/taufique39/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/taufique39/DSA_Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -339,4 +342,8 @@
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
