@@ -231,6 +231,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/taufique39/DSA_Problems/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/taufique39/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/taufique39/DSA_Problems/tree/master/0682-baseball-game) |
@@ -345,5 +346,6 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/taufique39/DSA_Problems/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
