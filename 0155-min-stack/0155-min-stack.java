@@ -31,9 +31,9 @@ class MinStack {
     }
     
     public void pop() {
-        if(stack.isEmpty()){
-            return;
-        }
+        // if(stack.isEmpty()){
+        //     return;
+        // }
         stack.pop();
     }
     
