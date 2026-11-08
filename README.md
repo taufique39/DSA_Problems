@@ -33,6 +33,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taufique39/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/taufique39/DSA_Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/taufique39/DSA_Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/taufique39/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/taufique39/DSA_Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/taufique39/DSA_Problems/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
@@ -238,6 +239,7 @@
 | [0155-min-stack](https://github.com/taufique39/DSA_Problems/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/taufique39/DSA_Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/taufique39/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/taufique39/DSA_Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/taufique39/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/taufique39/DSA_Problems/tree/master/0844-backspace-string-compare) |
@@ -252,6 +254,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/taufique39/DSA_Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/taufique39/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/taufique39/DSA_Problems/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
