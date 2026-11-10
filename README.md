@@ -188,6 +188,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/taufique39/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
 ## Counting
@@ -237,6 +238,7 @@
 | [0020-valid-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taufique39/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/taufique39/DSA_Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/taufique39/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/taufique39/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/taufique39/DSA_Problems/tree/master/0503-next-greater-element-ii) |
@@ -356,5 +358,6 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/taufique39/DSA_Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/taufique39/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
