@@ -1,40 +1,61 @@
 class Solution {
     public String removeKdigits(String num, int k) {
-        Stack<Character> st = new Stack<>();
+        Stack<Character> stack = new Stack<>();
 
         for (int i = 0; i < num.length(); i++) {
-            while (!st.isEmpty() && k > 0 && st.peek() > num.charAt(i)) {
-                st.pop();
-                k--;
-            }
+            char c = num.charAt(i);
 
-            st.push(num.charAt(i));
+            while(true){
+                if(k == 0){
+                    stack.push(c);
+                    break;
+                }
+
+                if(stack.isEmpty()){
+                    stack.push(c);
+                    break;
+                }
+
+                int cTop = stack.peek();
+                if(c < cTop){
+                    stack.pop();
+                    k = k-1;
+                }
+                else{
+                    stack.push(c);
+                    break;
+                }
+            }
         }
 
-        while (k > 0 && !st.isEmpty()) {
-            st.pop();
+         while(k > 0 && !stack.isEmpty()){
+            stack.pop();
             k--;
         }
 
-        StringBuilder result = new StringBuilder();
+        char[] result = new char[stack.size()];
+        int i = result.length-1;
 
-        while (!st.isEmpty()) {
-            result.append(st.pop());
+        while(i >= 0){
+            result[i] = stack.pop();
+            i = i-1;
         }
 
-        result.reverse();
-
-        int i = 0;
-        while (i < result.length() && result.charAt(i) == '0') {
-            i++;
+        //if result : 001219
+        i = 0;
+        while(i < result.length && result[i] == '0'){ //this removes leading zeroes...
+            i = i+1;
         }
 
-        result = new StringBuilder(result.substring(i));
+        StringBuilder result2 = new StringBuilder();
+        while(i < result.length){
+            result2.append(result[i]);
+            i = i+1;
+        }
 
-        if (result.length() == 0) {
+        if(result2.length() == 0){
             return "0";
         }
-
-        return result.toString();
+        return result2.toString();
     }
 }
