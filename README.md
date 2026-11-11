@@ -171,6 +171,7 @@
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/taufique39/DSA_Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/taufique39/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/taufique39/DSA_Problems/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/taufique39/DSA_Problems/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/taufique39/DSA_Problems/tree/master/0541-reverse-string-ii) |
@@ -240,6 +241,7 @@
 | [0155-min-stack](https://github.com/taufique39/DSA_Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/taufique39/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/taufique39/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/taufique39/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/taufique39/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/taufique39/DSA_Problems/tree/master/0682-baseball-game) |
@@ -250,11 +252,13 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/taufique39/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/taufique39/DSA_Problems/tree/master/0605-can-place-flowers) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/taufique39/DSA_Problems/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/taufique39/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/taufique39/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/taufique39/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/taufique39/DSA_Problems/tree/master/0739-daily-temperatures) |
