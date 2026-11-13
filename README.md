@@ -237,6 +237,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/taufique39/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/taufique39/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/taufique39/DSA_Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/taufique39/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -371,4 +372,16 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/taufique39/DSA_Problems/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/taufique39/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/taufique39/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/taufique39/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
