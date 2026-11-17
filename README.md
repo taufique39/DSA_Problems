@@ -38,6 +38,7 @@
 | [0575-distribute-candies](https://github.com/taufique39/DSA_Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/taufique39/DSA_Problems/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/taufique39/DSA_Problems/tree/master/0641-design-circular-deque) |
 | [0661-image-smoother](https://github.com/taufique39/DSA_Problems/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/taufique39/DSA_Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/taufique39/DSA_Problems/tree/master/0704-binary-search) |
@@ -193,6 +194,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/taufique39/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/taufique39/DSA_Problems/tree/master/0641-design-circular-deque) |
 ## Counting
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/taufique39/DSA_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/taufique39/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/taufique39/DSA_Problems/tree/master/0641-design-circular-deque) |
 ## Recursion
 |  |
 | ------- |
@@ -373,6 +376,7 @@
 | [0155-min-stack](https://github.com/taufique39/DSA_Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/taufique39/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/taufique39/DSA_Problems/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/taufique39/DSA_Problems/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
