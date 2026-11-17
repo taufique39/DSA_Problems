@@ -29,6 +29,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taufique39/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/taufique39/DSA_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/taufique39/DSA_Problems/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/taufique39/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/taufique39/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/taufique39/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/taufique39/DSA_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/taufique39/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/taufique39/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/taufique39/DSA_Problems/tree/master/0641-design-circular-deque) |
@@ -319,6 +321,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/taufique39/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/taufique39/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/taufique39/DSA_Problems/tree/master/0567-permutation-in-string) |
 ## Bracket Sequences
 |  |
@@ -370,6 +373,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/taufique39/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Design
 |  |
@@ -404,4 +408,9 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/taufique39/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/taufique39/DSA_Problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/taufique39/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
