@@ -66,6 +66,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/taufique39/DSA_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/taufique39/DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/taufique39/DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/taufique39/DSA_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3875-construct-uniform-parity-array-i](https://github.com/taufique39/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -227,6 +228,7 @@
 | [0836-rectangle-overlap](https://github.com/taufique39/DSA_Problems/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/taufique39/DSA_Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/taufique39/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/taufique39/DSA_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3870-count-commas-in-range](https://github.com/taufique39/DSA_Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/taufique39/DSA_Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/taufique39/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -333,6 +335,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/taufique39/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/taufique39/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/taufique39/DSA_Problems/tree/master/0567-permutation-in-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/taufique39/DSA_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -379,6 +382,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/taufique39/DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/taufique39/DSA_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Interactive
 |  |
 | ------- |
@@ -435,4 +439,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/taufique39/DSA_Problems/tree/master/0141-linked-list-cycle) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/taufique39/DSA_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
