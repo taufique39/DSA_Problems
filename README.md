@@ -100,6 +100,7 @@
 | [0031-next-permutation](https://github.com/taufique39/DSA_Problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/taufique39/DSA_Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/taufique39/DSA_Problems/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/taufique39/DSA_Problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/taufique39/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/taufique39/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/taufique39/DSA_Problems/tree/master/0141-linked-list-cycle) |
@@ -375,6 +376,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/taufique39/DSA_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/taufique39/DSA_Problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/taufique39/DSA_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/taufique39/DSA_Problems/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/taufique39/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/taufique39/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/taufique39/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
