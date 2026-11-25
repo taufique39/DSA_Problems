@@ -115,6 +115,7 @@
 | [0696-count-binary-substrings](https://github.com/taufique39/DSA_Problems/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/taufique39/DSA_Problems/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/taufique39/DSA_Problems/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/taufique39/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/taufique39/DSA_Problems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/taufique39/DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/taufique39/DSA_Problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -376,6 +377,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/taufique39/DSA_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/taufique39/DSA_Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/taufique39/DSA_Problems/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/taufique39/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
