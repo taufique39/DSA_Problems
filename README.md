@@ -194,6 +194,7 @@
 | [0917-reverse-only-letters](https://github.com/taufique39/DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/taufique39/DSA_Problems/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/taufique39/DSA_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/taufique39/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2785-sort-vowels-in-a-string](https://github.com/taufique39/DSA_Problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Queue
@@ -270,6 +271,7 @@
 | [0844-backspace-string-compare](https://github.com/taufique39/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/taufique39/DSA_Problems/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/taufique39/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/taufique39/DSA_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |
